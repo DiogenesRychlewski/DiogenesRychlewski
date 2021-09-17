@@ -1,7 +1,7 @@
 Olá Mundo !
 
 - 🔭 Trabalho como suporte de sistemas;
-- 🌱 Atualmente estudando JavaScript (ReactJS) e Linguagem Python;
+- 🌱 Atualmente estudando JavaScript/TypeScripit (ReactJS) e Python;
 
 <div>
   <a href="https://github.com/DiogenesRychlewski">
