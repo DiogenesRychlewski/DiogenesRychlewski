@@ -1,6 +1,6 @@
 Olá Mundo !
 
-- 🔭 Trabalho como suporte de sistemas;
+- 🔭 Trabalho atualmente como suporte de sistemas;
 - 🌱 Atualmente estudando JavaScript/TypeScripit (ReactJS) e Python;
 
 <div>
