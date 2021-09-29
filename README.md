@@ -1,7 +1,8 @@
 Olá Mundo !
 
-- 🔭 Trabalho atualmente como suporte de sistemas;
-- 🌱 Atualmente estudando JavaScript/TypeScripit (ReactJS) e Python;
+- 📌 Trabalho atualmente como suporte de sistemas;
+- 📚 Estudando JavaScript/TypeScripit (ReactJS) e Python;
+- 🎓 Cursando Análise e Desenvolvimento de Sistemas;
 
 <div>
   <a href="https://github.com/DiogenesRychlewski">
