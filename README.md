@@ -1,7 +1,7 @@
 Olá Mundo !
 
 - 📌 Trabalho atualmente como suporte de sistemas;
-- 📚 Estudando JavaScript/TypeScripit (ReactJS) e Python;
+- 📚 Estudando JavaScript/TypeScripit (ReactJS), HTML5, CSS;
 - 🎓 Cursando Análise e Desenvolvimento de Sistemas;
 
 <div>
