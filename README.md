@@ -1,8 +1,9 @@
 Olá Mundo !
 
-- 📌 Trabalho atualmente como suporte de sistemas;
-- 📚 Estudando JavaScript/TypeScripit (ReactJS), HTML5, CSS;
-- 🎓 Cursando Análise e Desenvolvimento de Sistemas;
+- 📌 I currently work as a systems support 
+- 📚 Studying JavaScript/TypeScripit (ReactJS), HTML5, CSS
+- 🎓 Studying Systems Analysis and Development
+- ❤️ Passionate about programming !
 
 <div>
   <a href="https://github.com/DiogenesRychlewski">
