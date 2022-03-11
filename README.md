@@ -1,4 +1,4 @@
-Olá Mundo !
+Hello World !
 
 - 📌 I currently work as a systems support 
 - 📚 Studying JavaScript/TypeScripit (ReactJS), HTML5, CSS
