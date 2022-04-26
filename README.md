@@ -1,7 +1,7 @@
 Hello World !
 
 - 🎓 Studying Systems Analysis and Development
-- 📚 Studying JavaScript/TypeScripit (ReactJS), HTML5, CSS
+- 📚 JavaScript/TypeScripit (ReactJS), HTML5, CSS
 - ❤️ Passionate about programming !
 
 <div>
