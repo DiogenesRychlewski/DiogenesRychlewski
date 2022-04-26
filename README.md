@@ -1,8 +1,7 @@
 Hello World !
 
-- 📌 I currently work as a systems support 
-- 📚 Studying JavaScript/TypeScripit (ReactJS), HTML5, CSS
 - 🎓 Studying Systems Analysis and Development
+- 📚 Studying JavaScript/TypeScripit (ReactJS), HTML5, CSS
 - ❤️ Passionate about programming !
 
 <div>
