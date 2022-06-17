@@ -1,7 +1,8 @@
 Hello World !
 
-- 🎓 Studying Systems Analysis and Development
-- 📚 JavaScript/TypeScripit (ReactJS), HTML5, CSS
+- 💻 Working with Front End Developer Jr.
+- 📚 JavaScript/TypeScripit (ReactJS, NextJS, React Native), HTML5, CSS;
+- 🎓 College: Studying Systems Analysis and Development;
 - ❤️ Passionate about programming !
 
 <div>
