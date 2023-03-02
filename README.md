@@ -1,6 +1,6 @@
 Hello World !
 
-- 💻 Working with Front End Developer Jr.
+- 💻 Working with Front End Developer Jr at Betterfly.
 - 📚 JavaScript/TypeScripit (ReactJS, NextJS, React Native), HTML5, CSS;
 - 🎓 College: Graduated in Systems Analysis and Development;
 - ❤️ Passionate about programming !
