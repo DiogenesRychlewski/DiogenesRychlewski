@@ -1,7 +1,7 @@
 Hello World !
 
-- 💻 Working with Front End Developer Jr at Betterfly.
-- 📚 JavaScript/TypeScripit (ReactJS, NextJS, React Native), HTML5, CSS;
+- 💻 Working with Full-stack Developer at Betterfly.
+- 📚 Full Stack Developer | JavaScript/Typescript | React/React Native | .NET C# | SQL | AWS
 - 🎓 College: Graduated in Systems Analysis and Development;
 - ❤️ Passionate about programming !
 
