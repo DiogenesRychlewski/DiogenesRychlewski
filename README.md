@@ -1,7 +1,7 @@
 Hello World !
 
-- 💻 Working with Full-stack Developer at Betterfly.
-- 📚 Full Stack Developer | JavaScript/Typescript | React/React Native | .NET C# | SQL | AWS
+- 💻 Working with Full-stack Developer at Vockan.
+- 📚 Full Stack Developer | JavaScript/Typescript | React/React Native | Angular | Java | .NET C# | SQL | AWS
 - 🎓 College: Graduated in Systems Analysis and Development;
 - ❤️ Passionate about programming !
 
