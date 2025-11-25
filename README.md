@@ -40,15 +40,6 @@
     </a>
 </div>
 
-<br>
-
-### 🐍 Atividade no GitHub
-
-<div align="center">
-    <img src="https://raw.githubusercontent.com/DiogenesRychlewski/DiogenesRychlewski/output/github-contribution-grid-snake.svg" alt="Snake animation"/>
-</div>
-<br>
-
 ---
 
 ### 🔗 Conecte-se Comigo!
